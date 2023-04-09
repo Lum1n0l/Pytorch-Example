@@ -1,1 +1,3 @@
 This is an example Pytorch Project!
+
+I am now starting to follow the course...
