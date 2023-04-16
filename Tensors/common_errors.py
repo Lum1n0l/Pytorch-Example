@@ -36,3 +36,8 @@ print("Output:\n")
 output = torch.matmul(tensor_A, tensor_B.T)
 print(output) 
 print(f"\nOutput shape: {output.shape}")
+
+# You can also use torch.mm() - short for torch.matmul()
+
+# torch.mm is a shortcut for matmul
+print(torch.mm(tensor_A, tensor_B.T))
