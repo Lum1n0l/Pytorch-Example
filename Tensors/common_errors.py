@@ -24,7 +24,7 @@ tensor_B = torch.tensor([[7, 10],
 print(tensor_A)
 print(tensor_B)
 
-# View tensor_A and tensoe_B.T
+# View tensor_A and tensor_B.T
 print(tensor_A)
 print(tensor_B.T)
 
