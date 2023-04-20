@@ -38,4 +38,4 @@ print(tensor)
 
 # Element-wise multiplication (each element multiplies its equivalent, index 0->0, 1->1, 2->2)
 print(tensor, "*", tensor)
-print("Equals:", tensor * tensor) 
+print("Equals:", tensor * tensor)
